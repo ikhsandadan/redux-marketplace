@@ -31,6 +31,9 @@
 
 ## User Roles and Functionalities
 
+All user can choose the role at registration form.
+
+
 ### Admin
 
 -   Assign  admin  role  to  a  user  in  the  database.
